@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="테마 추천 아이콘">
+  <circle cx="64" cy="64" r="58" fill="#FCFAF6" stroke="#D7C19A" stroke-width="4"/>
+  <rect x="30" y="30" width="68" height="68" rx="14" fill="#184c3a" opacity="0.08" stroke="#184c3a" stroke-width="4"/>
+  <path d="M43 72c9-1 15-8 16-17 7 1 13 6 15 13 5-2 9-6 11-12" fill="none" stroke="#184c3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 84l9-12 8 8 19-23" fill="none" stroke="#184c3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="46" cy="47" r="5" fill="#B79A63"/>
+  <circle cx="64" cy="47" r="5" fill="#B79A63"/>
+  <circle cx="82" cy="47" r="5" fill="#B79A63"/>
+</svg>

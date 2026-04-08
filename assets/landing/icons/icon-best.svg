@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="인기 모델 아이콘">
+  <circle cx="64" cy="64" r="58" fill="#FCFAF6" stroke="#D7C19A" stroke-width="4"/>
+  <path d="M34 56l9-14c2-4 6-6 10-6h22c4 0 8 2 10 6l9 14" fill="none" stroke="#184c3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="24" y="57" width="80" height="23" rx="11" fill="#184c3a"/>
+  <circle cx="44" cy="82" r="7" fill="#B79A63"/>
+  <circle cx="84" cy="82" r="7" fill="#B79A63"/>
+  <path d="M64 24l5.9 12 13.1 1.9-9.5 9.2 2.3 13-11.8-6.2-11.8 6.2 2.3-13-9.5-9.2 13.1-1.9z" fill="#B79A63"/>
+</svg>

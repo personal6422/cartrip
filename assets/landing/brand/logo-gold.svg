@@ -1,0 +1,24 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gg1" x1="0" y1="0" x2="96" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7C19A"/>
+      <stop offset="1" stop-color="#B79A63"/>
+    </linearGradient>
+    <linearGradient id="gg2" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7C19A"/>
+      <stop offset="1" stop-color="#8C7448"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="12" width="96" height="96" rx="28" fill="#184C3A"/>
+  <rect x="12" y="16" width="88" height="88" rx="24" fill="url(#gg1)"/>
+
+  <path d="M28 63C28 60.2 29.3 57.5 31.5 55.8L45 45.2C47.8 43 51.3 41.8 54.9 41.8H66.8C71.4 41.8 75.6 44.2 78.1 48.1L84.8 58.5C86.1 60.5 86.8 62.8 86.8 65.2V68.5C86.8 71 84.8 73 82.3 73H79.8C78.9 78.4 74.2 82.5 68.5 82.5C62.8 82.5 58.1 78.4 57.2 73H45.6C44.7 78.4 40 82.5 34.3 82.5C27.9 82.5 22.8 77.3 22.8 71C22.8 66.9 25 63.3 28 63Z" fill="#184C3A"/>
+  <circle cx="34.5" cy="71" r="6.8" fill="#FCFAF6"/>
+  <circle cx="68.5" cy="71" r="6.8" fill="#FCFAF6"/>
+  <path d="M46 49.5H65.5C68.4 49.5 71 51 72.6 53.5L75.4 58H38.3L46 49.5Z" fill="#F7F4EE"/>
+  <path d="M35 62H77" stroke="#184C3A" stroke-opacity="0.18" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="122" y="58" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="40" font-weight="800" fill="url(#gg2)">카트립</text>
+  <text x="124" y="84" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="13" font-weight="700" letter-spacing="2.8" fill="#184C3A">PREMIUM LEASE GUIDE</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="프리미엄관 아이콘">
+  <circle cx="64" cy="64" r="58" fill="#FCFAF6" stroke="#D7C19A" stroke-width="4"/>
+  <path d="M34 59l8-13c2-4 6-6 10-6h24c4 0 8 2 10 6l8 13" fill="none" stroke="#184c3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="24" y="60" width="80" height="22" rx="11" fill="#184c3a"/>
+  <circle cx="44" cy="84" r="7" fill="#B79A63"/>
+  <circle cx="84" cy="84" r="7" fill="#B79A63"/>
+  <path d="M64 26l4 9h10l-8 6 3 10-9-6-9 6 3-10-8-6h10z" fill="#B79A63"/>
+  <path d="M32 101h64" stroke="#D7C19A" stroke-width="4" stroke-linecap="round"/>
+</svg>
